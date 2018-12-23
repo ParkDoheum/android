@@ -25,6 +25,8 @@ public class ImageListActivity extends AppCompatActivity {
         ImageTitleVO vo3 = new ImageTitleVO("https://i.ytimg.com/vi/aiHSVQy9xN8/maxresdefault.jpg", "레드벨벳");
         ImageTitleVO vo4 = new ImageTitleVO("https://librewiki.net/images/1/15/Lovelyz_Healing_Concept.jpg", "러블리즈");
         ImageTitleVO vo5 = new ImageTitleVO("https://i.ytimg.com/vi/aiHSVQy9xN8/maxresdefault.jpg", "레드벨벳2");
+        
+        ImageTitleVO vo7 = new ImageTitleVO("https://i.ytimg.com/vi/aiHSVQy9xN8/maxresdefault.jpg", "레드벨벳7");
 
 
         list.add(vo1);
@@ -32,6 +34,7 @@ public class ImageListActivity extends AppCompatActivity {
         list.add(vo3);
         list.add(vo4);
         list.add(vo5);
+        list.add(vo7);
 
         list.add(new ImageTitleVO("https://librewiki.net/images/1/15/Lovelyz_Healing_Concept.jpg","러블리즈2"));
     }
