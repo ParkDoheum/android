@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="habbit">
+        <item>수영</item>
+        <item>등산</item>
+        <item>독서</item>
+        <item>웹서핑</item>
+        <item>음악감상</item>
+    </string-array>
+</resources>
